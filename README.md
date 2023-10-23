@@ -3,38 +3,38 @@
 
 Este é um espaço aberto para todos que querem revolucionar o governo digital! 💻
 
-A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor.
+A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor. Nós, do PEN, acreditamos que a sua colaboracao é muito importante nessa missão!
 
-Cada um de nós tem um talento ou conhecimento que pode contribuir para essa missão. Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br], discutir sobre como o Protocolo Integrado pode melhorar o acesso à informação, ou participar da comunidade no [discussions] só para fazer amizades mesmo.
+Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br], discutir sobre como o Protocolo Integrado pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas soluções, ou participar da comunidade no [discussions] só para fazer amizades mesmo, lembrando sempre de manter o respeito e as regras de uso.
 
+Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela Central de Atendimento do PEN.
 
-## O PEN
+## O PEN - O que é?
 
-O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da colaboração entre órgãos e foi evoluindo dentro da Administração Pública Federal. Hoje o PEN é uma infraestrutura pública de processo administrativo eletrônico que tem como objetivo impulsionar melhorias na gestão processual, levando em conta as constantes inovações e evoluções tecnológicas. Isso inclui a busca por maior agilidade, produtividade e satisfação dos usuários, além de redução de custos, promoção da transparência ativa...tudo isso para garantir que os serviços públicos sejam genuinamente democratizados.
+O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da colaboração entre órgãos e foi evoluindo dentro da Administração Pública Federal. Hoje o PEN é uma infraestrutura pública de processo administrativo eletrônico que tem como objetivo impulsionar melhorias na gestão processual, levando em conta as constantes inovações e evoluções tecnológicas. Isso inclui a busca por maior agilidade, produtividade e satisfação dos usuários, além de redução de custos, promoção da transparência ativa...tudo isso para garantir a excelência em serviços públicos por meio da transformação digital.
 
-Para tal missão, é preciso haver também a colaboração 
+## O PEN - Quem somos?
 
-O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, e para isso precisamos atender às necessidades dos usuários das nos.
+Atualmente o PEN é de responsabilidade da CGESP e da CGSIS, duas coordenações-gerais na estrutura do MGI. 
 
-Nosso objetivo é 
+A CGESP cuida da parte negocial, enquanto a CGSIS fica a cargo da parte técnica.
 
-Nosso objetivo é muito maior do que simplesmente digitalizar documentos. Estamos na busca incessante por substanciais melhorias, na criação de uma experiência que supera expectativas.
+As CGs estao dentro da DTGES, que por sua vez encontra-se subordinada à SEGES.
 
+## O PEN - O que queremos?
 
+Nosso objetivo é muito maior do que simplesmente digitalizar documentos e formar processos. Queremos incentivar o pensamento digital, fometar a cultura de inovacao e poder transformar o servico público.
 
-Acreditamos que cada um de nós tem algo valioso para contribuir e queremos que todos tenham espaço e voz, por isso este espaço foi criado, para que possamos debater novas funcionalidades e melhorias explorar tecnologias e ideias malucas. Há muitas formas de somar.
+O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, por isso, é muito importante atender às necessidades dos usuários das nossas soluções para o processo eletrônico.
 
-Aqui na comunidade PEN, todos têm espaço e voz. Qualquer ideia ou feedback é bem-vindo e pode moldar o futuro do PEN. É um lugar de colaboração onde podemos trabalhar juntos para um objetivo comum.
-
-Então, venham participar! Sigam o repositório do PEN no GitHub e participem das discussões. Juntos, não há limites para o que podemos alcançar!
-
-Valeu por fazerem parte do PEN e da nossa comunidade animada.
-
-Estamos animados para dar as boas-vindas a todos vocês nesta comunidade. 
 
 ## Soluções do PEN:
 
+Conheça aqui cada uma de nossas soluções:
 
+- Modulo
+- SEI!
+- ...
 
 
 
