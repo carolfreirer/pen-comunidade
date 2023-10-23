@@ -1,57 +1,42 @@
-# Módulo de Integração do SEI ao Tramita.GOV.BR
+![1a75b308-f288-41b9-93f9-10be6a2fea70](https://github.com/carolfreirer/pen-comunidade/assets/76488169/0a19ee2c-9415-42b6-a2dd-f1ca9ed8b00a)
+# Olá! Bem vindos ao repositório da Comunidade do PEN! 😄
 
-O módulo **PEN** é o responsável por integrar o Sistema Eletrônico de Informações - SEI ao Tramita.GOV.BR. Este projeto tem como objetivo interligar todos os sistema de processo eletrônico do Poder Executivo Federal a fim de proporcionar a troca de documentos oficiais de forma rápida, simples e segura.
+Este é um espaço aberto para todos que querem revolucionar o governo digital! 💻
 
+A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor.
 
-## O REPOSITÓRIO
-
-Este repositório no GitHub é o local oficial onde será mantido todo o desenvolvimento do módulo de integração. Além do código-fonte, também pode ser encontrado o pacote de distribuição para instalação do SEI, questões ou problema em aberto e planejamento de novas versões.
-
-
-## DOWNLOAD
-
-O download do pacote de instalação/atualização do mod-sei-pen pode ser encontrado na seção Releases deste projeto no GitHub. 
-Acesse o link https://github.com/spbgovbr/mod-sei-pen/releases
-
-**[DOWNLOAD PACOTE DE INSTALAÇÃO MOD-SEI-PEN](https://github.com/spbgovbr/mod-sei-pen/releases)** 
+Cada um de nós tem um talento ou conhecimento que pode contribuir para essa missão. Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br], discutir sobre como o Protocolo Integrado pode melhorar o acesso à informação, ou participar da comunidade no [discussions] só para fazer amizades mesmo.
 
 
-## DOCUMENTAÇÃO
+## O PEN
 
-As instruções de instalação e atualização do módulo, assim com o manual de utilização do usuário,  podem ser encontradas na pasta `docs/`.
+O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da colaboração entre órgãos e foi evoluindo dentro da Administração Pública Federal. Hoje o PEN é uma infraestrutura pública de processo administrativo eletrônico que tem como objetivo impulsionar melhorias na gestão processual, levando em conta as constantes inovações e evoluções tecnológicas. Isso inclui a busca por maior agilidade, produtividade e satisfação dos usuários, além de redução de custos, promoção da transparência ativa...tudo isso para garantir que os serviços públicos sejam genuinamente democratizados.
 
-* **[MANUAL DE INSTALAÇÃO](docs/INSTALL.md)**
-* **[MANUAL DE ATUALIZAÇÃO](docs/UPGRADE.md)**
-* **[MANUAL DE UTILIZAÇÃO](docs/USAGE.md)**
+Para tal missão, é preciso haver também a colaboração 
 
-## PROJETOS RELACIONADOS
+O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, e para isso precisamos atender às necessidades dos usuários das nos.
 
-O mod-sei-pen trata-se de um módulo adicional ao Sistema Eletrônico de Informações (SEI) para adição de novas funcionalidades relacionadas ao trâmite de processos e documentos entre instituições integradas ao Processo Eletrônico Nacional (PEN). Para a sua utilização, é necessário que a instituição possua o sistema SEI e tenha aderido ao Tramita.GOV.BR.
+Nosso objetivo é 
 
-Para informações sobre como aderir ao SEI, acesse: 
-https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei
+Nosso objetivo é muito maior do que simplesmente digitalizar documentos. Estamos na busca incessante por substanciais melhorias, na criação de uma experiência que supera expectativas.
 
 
-Para informações sobre como aderir ao Tramita.GOV.BR, acesse:
-https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/assuntos/processo-eletronico-nacional-pen
+
+Acreditamos que cada um de nós tem algo valioso para contribuir e queremos que todos tenham espaço e voz, por isso este espaço foi criado, para que possamos debater novas funcionalidades e melhorias explorar tecnologias e ideias malucas. Há muitas formas de somar.
+
+Aqui na comunidade PEN, todos têm espaço e voz. Qualquer ideia ou feedback é bem-vindo e pode moldar o futuro do PEN. É um lugar de colaboração onde podemos trabalhar juntos para um objetivo comum.
+
+Então, venham participar! Sigam o repositório do PEN no GitHub e participem das discussões. Juntos, não há limites para o que podemos alcançar!
+
+Valeu por fazerem parte do PEN e da nossa comunidade animada.
+
+Estamos animados para dar as boas-vindas a todos vocês nesta comunidade. 
+
+## Soluções do PEN:
 
 
-## CONTRIBUIÇÃO
 
-Existem diversas formas de colaborar neste projeto:
 
-* Enviar registros de erros ou solicitação de melhorias ([Issues](https://github.com/spbgovbr/mod-sei-pen/issues))
-* Revisar a documentação do projeto e enviar qualquer tipo de contribuição via [Pull Request](https://github.com/spbgovbr/mod-sei-pen/pulls)
-* Ajudar na correção de erros ou melhoria da base de código. Para isto, faça um fork do projeto no GitHub e posteriormente nos envie um [Pull Request](https://github.com/spbgovbr/mod-sei-pen/pulls)
-
-## DESENVOLVIMENTO
-
-Para maiores informações de como configurar o ambiente de desenvolvimento do mod-sei-pen para apoiar o desenvolvimento do projeto, acesse a página [Configuração do Ambiente de Desenvolvimento](docs/DESENV.md)
-
-## TESTES
-
-Os testes implementados no projeto estão em Phpunit e Selenium.
-Para maiores informações de como configurar o seu ambiente e rodar/visualizar os testes em tempo real acesse a página [Configuração dos Testes](docs/TESTE.md)
 
 ## SUPORTE
 
