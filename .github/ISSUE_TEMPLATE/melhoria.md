@@ -2,7 +2,7 @@
 name: Requisição de melhoria
 about: Sugira uma ideia para um produto do PEN
 title: ''
-labels: melhoria
+labels: ''
 assignees: ''
 
 ---
