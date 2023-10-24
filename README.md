@@ -43,4 +43,4 @@ Conheça aqui cada uma de nossas soluções:
 - [SEI;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md)
 - [Tramita.Gov.Br.](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md)
 
-# Agradecemos sua participação 
+# Agradecemos sua participação!
