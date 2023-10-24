@@ -25,7 +25,7 @@ Ambas coordenações-gerais estao dentro da Diretoria de Informações, Serviço
 
 Nosso objetivo é transcender a ideia que o processo eletrônico é somente fazer documentos e formar processos. Queremos incentivar o pensamento digital, fometar a cultura de inovacao e poder transformar o servico público.
 
-O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, por isso, é muito importante atender às necessidades dos usuários das nossas soluções para o processo eletrônico.
+O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, e por issoé muito importante atender às necessidades dos usuários das nossas soluções para o processo eletrônico.
 
 ## Soluções do PEN:
 
