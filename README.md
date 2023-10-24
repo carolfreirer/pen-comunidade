@@ -3,11 +3,11 @@
 
 Este é um espaço aberto para todos que querem revolucionar o governo digital! 💻
 
-A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor. Nós, do PEN, acreditamos que a sua colaboracao é muito importante nessa missão!
+A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor. Nós, do PEN, acreditamos que a sua colaboracao é fundamental para esta missão!
 
-Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br], discutir sobre como o Protocolo Integrado pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas soluções, ou participar da comunidade no [discussions] só para fazer amizades mesmo, lembrando sempre de manter o respeito e as regras de uso.
+Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md), discutir sobre como o [Protocolo Integrado](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Protocolo%20Integrado.md) pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas soluções, ou participar da [comunidade](https://github.com/carolfreirer/pen-comunidade/discussions) só para fazer amizades mesmo, lembrando sempre de manter o respeito.
 
-Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela Central de Atendimento do PEN.
+Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela [Central de Atendimento do PEN](https://portaldeservicos.economia.gov.br).
 
 ## O PEN - O que é?
 
@@ -15,33 +15,32 @@ O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da
 
 ## O PEN - Quem somos?
 
-Atualmente o PEN é de responsabilidade da CGESP e da CGSIS, duas coordenações-gerais na estrutura do MGI. 
+Atualmente o PEN é de responsabilidade da Coordenção-Geral de Soluções Negociais em Processo Eletrônico - CGESP e da Coordenação-Geral de Sistemas de Processo Eletrônico - CGSIS, duas coordenações-gerais na estrutura do Ministério da Gestão e Inovação em Serviços Públicos - MGI. 
 
 A CGESP cuida da parte negocial, enquanto a CGSIS fica a cargo da parte técnica.
 
-As CGs estao dentro da DTGES, que por sua vez encontra-se subordinada à SEGES.
+Ambas coordenações-gerais estao dentro da Diretoria de Informações, Serviços e Sistemas de Gestão - DTEGES, que por sua vez encontra-se subordinada à Secretaria de Gestão e Inovação do MGI - SEGES.
 
 ## O PEN - O que queremos?
 
-Nosso objetivo é muito maior do que simplesmente digitalizar documentos e formar processos. Queremos incentivar o pensamento digital, fometar a cultura de inovacao e poder transformar o servico público.
+Nosso objetivo é transcender a ideia que o processo eletrônico é somente fazer documentos e formar processos. Queremos incentivar o pensamento digital, fometar a cultura de inovacao e poder transformar o servico público.
 
 O foco final é fornecer um serviço público digital genuinamente democrático que assegure os direitos dos cidadãos, por isso, é muito importante atender às necessidades dos usuários das nossas soluções para o processo eletrônico.
-
 
 ## Soluções do PEN:
 
 Conheça aqui cada uma de nossas soluções:
 
-- Modulo
-- SEI!
-- ...
+- [Modulo Acesso Gov.Br;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20Acesso%20GOV.BR.md)
+- [Módulo Assinatura Avançada;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20Assinatura%20Avan%C3%A7ada.md)
+- [Módulo Estatístico;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20Estat%C3%ADstico.md)
+- [Módulo INCOM;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20INCOM.md)
+- [Módulo Resposta;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20Resposta.md)
+- [Módulo WSSEI;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/M%C3%B3dulo%20WSSEI.md)
+- [NUP;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/NUP.md)
+- [Protocolo.Gov.Br;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Proocolo.Gov.Br.md)
+- [Protocolo Integrado;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Protocolo%20Integrado.md)
+- [SEI;](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md)
+- [Tramita.Gov.Br.](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md)
 
-
-
-## SUPORTE
-
-Em caso de dúvidas ou problemas durante o procedimento de atualização, favor entrar em conta pelos canais de atendimento disponibilizados na Central de Atendimento do Processo Eletrônico Nacional, que conta com uma equipe para avaliar e responder esta questão de forma mais rápida possível.
-
-Para mais informações, contate a equipe responsável por meio dos seguintes canais:
-- [Portal de Atendimento (PEN): Canal de Atendimento](https://portaldeservicos.economia.gov.br) - Módulo do Barramento
-- Telefone: 0800 978 9005
+# Agradecemos sua participação 
