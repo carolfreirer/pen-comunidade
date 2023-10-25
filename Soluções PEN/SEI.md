@@ -1,4 +1,4 @@
-# SISTEMA ÚNICO DE PROCESSO ELETRÔNICO – SUPER.GOV.BR
+#  Sistema Eletrônico de Informações – SEI
 
 O Sistema Eletrônico de Informações (SEI), desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4), é uma ferramenta de gestão de documentos e processos eletrônicos, e tem como objetivo promover a eficiência administrativa. O SEI integra o Processo Eletrônico Nacional (PEN), uma iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônico.
 
