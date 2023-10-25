@@ -1,62 +1,51 @@
-# Módulo de Integração do SEI ao Tramita.GOV.BR
+# SISTEMA ÚNICO DE PROCESSO ELETRÔNICO – SUPER.GOV.BR
+[![site-security-scan](https://github.com/supergovbr/super/actions/workflows/main.yml/badge.svg)](https://github.com/supergovbr/super/actions/workflows/main.yml)
 
-O módulo **PEN** é o responsável por integrar o Sistema Eletrônico de Informações - SEI ao Tramita.GOV.BR. Este projeto tem como objetivo interligar todos os sistema de processo eletrônico do Poder Executivo Federal a fim de proporcionar a troca de documentos oficiais de forma rápida, simples e segura.
-
+O Sistema Eletrônico de Informações (SEI), desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4), é uma ferramenta de gestão de documentos e processos eletrônicos, e tem como objetivo promover a eficiência administrativa. O SEI integra o Processo Eletrônico Nacional (PEN), uma iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônico.
 
 ## O REPOSITÓRIO
 
-Este repositório no GitHub é o local oficial onde será mantido todo o desenvolvimento do módulo de integração. Além do código-fonte, também pode ser encontrado o pacote de distribuição para instalação do SEI, questões ou problema em aberto e planejamento de novas versões.
-
+Este  é o repositório oficial no qual será mantido todo o desenvolvimento do SUPER.GOV.BR. Além do código-fonte, também pode ser encontrado o pacote de distribuição para instalação, questões ou problemas em aberto e o planejamento de novas versões. 
 
 ## DOWNLOAD
 
-O download do pacote de instalação/atualização do mod-sei-pen pode ser encontrado na seção Releases deste projeto no GitHub. 
-Acesse o link https://github.com/spbgovbr/mod-sei-pen/releases
+O download dos pacotes de instalação/atualização podem ser encontrados na seção Releases deste projeto.
 
-**[DOWNLOAD PACOTE DE INSTALAÇÃO MOD-SEI-PEN](https://github.com/spbgovbr/mod-sei-pen/releases)** 
-
+**[DOWNLOAD PACOTE DE INSTALAÇÃO SUPER](https://github.com/supergovbr/super/releases)**
 
 ## DOCUMENTAÇÃO
 
-As instruções de instalação e atualização do módulo, assim com o manual de utilização do usuário,  podem ser encontradas na pasta `docs/`.
+As instruções disponíveis para o projeto podem ser encontradas na pasta `docs/`, sendo os principais listados abaixo:
 
-* **[MANUAL DE INSTALAÇÃO](docs/INSTALL.md)**
-* **[MANUAL DE ATUALIZAÇÃO](docs/UPGRADE.md)**
-* **[MANUAL DE UTILIZAÇÃO](docs/USAGE.md)**
+- **[MANUAL DE INSTALAÇÃO](docs/INSTALACAO.md)**
+- **[MANUAL DE MIGRAÇÂO](docs/MIGRACAO.md)**
 
 ## PROJETOS RELACIONADOS
 
-O mod-sei-pen trata-se de um módulo adicional ao Sistema Eletrônico de Informações (SEI) para adição de novas funcionalidades relacionadas ao trâmite de processos e documentos entre instituições integradas ao Processo Eletrônico Nacional (PEN). Para a sua utilização, é necessário que a instituição possua o sistema SEI e tenha aderido ao Tramita.GOV.BR.
+1) O SUPER.GOV.BR, baseado no Sistema Eletrônico de Informações (SEI), ferramenta desenvolvida pelo Tribunal Regional Federal da 4ª Região (TRF4), conta com inovações como os módulos de Gestão Documental, Login Único e Assinatura Eletrônica da plataforma Gov.BR.
 
-Para informações sobre como aderir ao SEI, acesse: 
-https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei
-
-
-Para informações sobre como aderir ao Tramita.GOV.BR, acesse:
-https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/assuntos/processo-eletronico-nacional-pen
+2) O mod-sei-pen trata-se de um módulo adicional ao Sistema Eletrônico de Informações (SEI) para adição de novas funcionalidades relacionadas ao trâmite de processos e documentos entre instituições integradas ao Processo Eletrônico Nacional (PEN). Para a sua utilização, é necessário que a instituição possua o sistema SEI e tenha aderido ao Barramendo de Serviços do PEN. Para informações sobre como aderir ao SEI, acesse: https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/sistema-eletronico-de-informacoes-sei
 
 
 ## CONTRIBUIÇÃO
 
 Existem diversas formas de colaborar neste projeto:
 
-* Enviar registros de erros ou solicitação de melhorias ([Issues](https://github.com/spbgovbr/mod-sei-pen/issues))
-* Revisar a documentação do projeto e enviar qualquer tipo de contribuição via [Pull Request](https://github.com/spbgovbr/mod-sei-pen/pulls)
-* Ajudar na correção de erros ou melhoria da base de código. Para isto, faça um fork do projeto no GitHub e posteriormente nos envie um [Pull Request](https://github.com/spbgovbr/mod-sei-pen/pulls)
+- Enviar registros de erros ou solicitação de melhorias ([Issues](https://github.com/supergovbr/sei-super/issues))
+- Revisar a documentação do projeto e enviar qualquer tipo de contribuição via [Pull Request](https://github.com/supergovbr/sei-super/pulls)
+- Ajudar na correção de erros ou melhoria da base de código. Para isto, faça um fork do projeto no GitHub e posteriormente nos envie um [Pull Request](https://github.com/supergovbr/sei-super/pulls)
+
 
 ## DESENVOLVIMENTO
 
-Para maiores informações de como configurar o ambiente de desenvolvimento do mod-sei-pen para apoiar o desenvolvimento do projeto, acesse a página [Configuração do Ambiente de Desenvolvimento](docs/DESENV.md)
+O projeto SUPER.GOV.BR insentiva o desenvolvimento colaborativo entre os membros da comunidade do Processo Eletrônico Nacional. Para obter maiores informações de como preparar o ambiente de desenvolvimento do sistema, acesso a página de [Desenvolvimento](docs/desenv/README.md).  
 
-## TESTES
-
-Os testes implementados no projeto estão em Phpunit e Selenium.
-Para maiores informações de como configurar o seu ambiente e rodar/visualizar os testes em tempo real acesse a página [Configuração dos Testes](docs/TESTE.md)
 
 ## SUPORTE
 
 Em caso de dúvidas ou problemas durante o procedimento de atualização, favor entrar em conta pelos canais de atendimento disponibilizados na Central de Atendimento do Processo Eletrônico Nacional, que conta com uma equipe para avaliar e responder esta questão de forma mais rápida possível.
 
 Para mais informações, contate a equipe responsável por meio dos seguintes canais:
-- [Portal de Atendimento (PEN): Canal de Atendimento](https://portaldeservicos.economia.gov.br) - Módulo do Barramento
+
+- [Portal de Atendimento (PEN): Canal de Atendimento](https://portaldeservicos.economia.gov.br) 
 - Telefone: 0800 978 9005
