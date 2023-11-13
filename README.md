@@ -1,4 +1,4 @@
-![1a75b308-f288-41b9-93f9-10be6a2fea70](https://github.com/carolfreirer/pen-comunidade/assets/76488169/8f224d41-09b8-4daa-a809-628e0534db15)
+[![1a75b308-f288-41b9-93f9-10be6a2fea70](https://github.com/carolfreirer/pen-comunidade/assets/76488169/8f224d41-09b8-4daa-a809-628e0534db15)](https://github.com/carolfreirer/pen-comunidade)
 
 # Este é um espaço aberto para todos que querem revolucionar o governo digital! 💻
 
