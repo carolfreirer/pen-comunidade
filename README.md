@@ -14,7 +14,7 @@ Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela [C
 
 ## O PEN - O que é?
 
-O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da colaboração entre órgãos e foi evoluindo dentro da Administração Pública Federal. Hoje o PEN é uma infraestrutura pública de processo administrativo eletrônico que tem como objetivo impulsionar melhorias na gestão processual, levando em conta as constantes inovações e evoluções tecnológicas. Isso inclui a busca por maior agilidade, produtividade e satisfação dos usuários, além de redução de custos, promoção da transparência ativa...tudo isso para garantir a excelência em serviços públicos por meio da transformação digital.
+O Processo Eletrônico Nacional - PEN tem sua origem em 2013 e é o resultado da colaboração entre órgãos e foi evoluindo dentro da Administração Pública Federal. Hoje o PEN é uma infraestrutura pública de processo administrativo eletrônico que tem como objetivo impulsionar melhorias na gestão documental e processual, levando em conta as constantes inovações e evoluções tecnológicas. Isso inclui a busca por maior agilidade, produtividade e satisfação dos usuários, além de redução de custos, promoção da transparência ativa, gestão documental efetiva...tudo isso para garantir a excelência em serviços públicos por meio da transformação digital.
 
 ## O PEN - Quem somos?
 
