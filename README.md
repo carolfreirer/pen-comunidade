@@ -6,7 +6,11 @@ Este é um espaço aberto para todos que querem revolucionar o governo digital! 
 
 A ideia é trabalharmos juntos para melhorar continuamente as soluções oferecidas pelo PEN para o processo eletrônico, tornando-o mais acessível e transparente para todos os cidadãos brasileiros, e facilitando a vida do servidor. Nós, do PEN, acreditamos que a sua colaboracao é fundamental para esta missão!
 
-Aqui você pode criar uma [issue](https://github.com/carolfreirer/pen-comunidade/issues) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md), discutir sobre como o [Protocolo Integrado](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Protocolo%20Integrado.md) pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas [soluções](https://github.com/carolfreirer/pen-comunidade/tree/Principal/Solu%C3%A7%C3%B5es%20PEN), ou participar da [comunidade](https://github.com/carolfreirer/pen-comunidade/discussions) só para fazer amizades mesmo, lembrando sempre de manter o respeito.
+Para ajudar é bem fácil, basta [criar uma conta no GitHub](https://docs.github.com/pt/get-started/onboarding/getting-started-with-your-github-account), e contribuir!
+
+Aqui você pode criar uma [discussão](https://github.com/carolfreirer/pen-comunidade/discussions) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md), discutir sobre como o [Protocolo Integrado](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Protocolo%20Integrado.md) pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas [soluções](https://github.com/carolfreirer/pen-comunidade/tree/Principal/Solu%C3%A7%C3%B5es%20PEN), ou participar da comunidade só para fazer amizades mesmo, lembrando sempre de manter o respeito.
+
+Todas as contribuições feitas 
 
 Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela [Central de Atendimento do PEN](https://portaldeservicos.economia.gov.br).
 
