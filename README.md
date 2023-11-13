@@ -8,7 +8,7 @@ Para ajudar é bem fácil, basta [criar uma conta no GitHub](https://docs.github
 
 Aqui você pode criar uma [discussão](https://github.com/carolfreirer/pen-comunidade/discussions) com aquela ideia que te economizaria horas de trabalho no [SEI!](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/SEI.md), tirar dúvidas sobre como enviar processos pelo [Tramita.gov.br](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Tramita.Gov.Br.md), discutir sobre como o [Protocolo Integrado](https://github.com/carolfreirer/pen-comunidade/blob/Principal/Solu%C3%A7%C3%B5es%20PEN/Protocolo%20Integrado.md) pode melhorar o acesso à informação, dar pitaco em qualquer um das nossas [soluções](https://github.com/carolfreirer/pen-comunidade/tree/Principal/Solu%C3%A7%C3%B5es%20PEN), ou participar da comunidade só para fazer amizades mesmo, lembrando sempre de manter o respeito.
 
-Todas as contribuições feitas passarão por análise e discussão da comunidade com a nossa super equipe, e posteriormente poderão ser movidas para o repositório oficial do SEI! para serem desenvolvidas.
+Todas as contribuições feitas passarão por análise e discussão da comunidade com a nossa super equipe, e posteriormente poderão ser movidas para o repositório oficial do PEN para serem desenvolvidas.
 
 Ah, bugs não serão tratados por este canal, mas você pode nos acionar pela [Central de Atendimento do PEN](https://portaldeservicos.economia.gov.br).
 
